@@ -26,8 +26,8 @@ Não trabalho sozinho. Acredito que um projeto forte exige colaboração, comuni
 ### 🌐 Vamos conectar?
 Estou sempre aberto a trocar experiências sobre design, dados e o desenvolvimento de produtos digitais.
 
-*   [Link do seu Portfólio/Site]
-*   [Link do seu LinkedIn]
+*   **Portfólio:** [https://auurelianoo.com.br/](https://auurelianoo.com.br/)
+*   **LinkedIn:** [https://www.linkedin.com/in/auurelianoo/](https://www.linkedin.com/in/auurelianoo/)
 
 ---
 *Design: [uuoo] | Product Design focado em resultados e pessoas.*
