@@ -10,6 +10,10 @@ Sou **Product Designer** focado em criar produtos digitais memoráveis. Acredito
 Meu compromisso é com a retenção, a satisfação e a criação de experiências que não apenas funcionam, mas fazem as pessoas voltarem.
 
 ---
+### 📊 GitHub Stats
+![Aureliano Stats](https://github-readme-stats.vercel.app/api?username=auurelianoo-hub&show_icons=true&theme=radical&hide_border=true)
+
+---
 
 ### 🧠 Minha Filosofia de Design
 *   **Design Robusto:** Entender o comportamento humano é o caminho para antecipar necessidades. Para mim, o usuário SEMPRE é o centro de tudo.
@@ -27,6 +31,15 @@ Meu compromisso é com a retenção, a satisfação e a criação de experiênci
 Não trabalho sozinho. Acredito que um projeto forte exige colaboração, comunicação clara e a tradução constante de dados em soluções visuais que impactam o negócio e o usuário final.
 
 ---
+
+### 🚀 Minhas Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
 ### 🌐 Vamos conectar?
 Estou sempre aberto a trocar experiências sobre design, dados e o desenvolvimento de produtos digitais.
