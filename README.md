@@ -1,4 +1,9 @@
-# Olá, eu sou o Aureliano 👋
+<div align="center">
+  <img src="uuoo-logo.png" width="200" alt="Logo Auurelianoo">
+  <h1>Olá, eu sou o Aureliano 👋</h1>
+</div>
+
+---
 
 Sou **Product Designer** focado em criar produtos digitais memoráveis. Acredito que o design bom é design funcional — aquele que, ao mesmo tempo que utiliza a psicologia para antecipar necessidades, garante uma navegação fluida onde o usuário encontra o que precisa sem complicações.
 
